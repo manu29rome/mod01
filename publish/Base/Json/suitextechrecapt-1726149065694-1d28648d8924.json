@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "suitextechrecapt-1726149065694",
+  "private_key_id": "1d28648d8924141780abda452f5cea936908d358",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDfbq8qno5lk07+\nDVq8FkSiemhZo+HEJcfmTCnKTuWmljpWoDmajVImRkyPVXrqEhqgSIv3nJQpefba\nAmKl1dvtXwmUd1s9n5MuNpsqq4M49FASRQ8s47YHLZlskpTmnNVpyWvwBnqxBRAF\natzMqYAbkMlUeGjioNvRrOrK2n/TmwoNm7yf+WJN3w0+ty/vJs+iYq8C0/Upf/Ox\nscJzAjIU0Q3Cr062vCBfgpvInC3VgG8aMGVbyD1Mkh+cU5CQf6A9reLpPwIVdtfP\nI4I5hDDP7VaHTAh88c92FGTzF5tpd1qkYPWEzaFE0L/RL9IWRnH1crtcD8At7MxO\nL7zna8DPAgMBAAECggEAApDCSSJ97xOkbg1YM92rlxQBu7nCf16Rr4bDWhPS1jlW\nXSVE1A34WgEnouOv4B0qGhoLJWIyX1GLsJAjctUES/Lx6LcAILKC3Z555KEIhjBj\n9Pm/BVxt/CIdZ149gHJfjvHln+FrKjotJ2rFM0Jk+qwMa8BgL+356CvsnDyrCBJz\nqdgaPl0jBqdaFMkiFdLfxMwkr8LZki/1n/0ZV+0HM75nmlHe168aDD4IHKLPaKas\npbHMeakbgEVzod6ry4FzennyA5PJ9tuxRC/ECAiZjaTMGiUZUeM8JxaztwTFfFjP\nuzxqoQ3t7OA1FKf3XGyfKWif/Sw5mLK5UKhlLm5X7QKBgQD3DgnFdgOGpw8669XR\nmG9V+L718dakvhC0LbpeOc880RNHw/Crc7V189shkqQxjw5R02gcDhWN7xKRQou4\nTgivtnw8gln1sD9Q0STKx302yxZH+PtQi90SIYhJQzKdRQ5b0DNcTZxSzEKgax2x\nHytmX4rlCoGUgOuGuROleROhWwKBgQDnhbA2n16tSSDhE1w5cRiSGUE9m0Skmzjh\nTESA9jk1TLhh5m30jQnRmLQdR4P2Vbn3DHThN2MF/LpF8u/upxR1D3g+oigNtMUt\nj5bhsspkP5NGBzASROvm5QLnj8AUYpDFqMCcSYsgRSPTPZI1Po2pxJXiS1vmTSE+\n/SOhcOMknQKBgBkI2iKhR9AwQ5HT7hHUIYwTrb4caIS/IdAwRg9gSki+YvbFuzCU\nhBHUySLIykyfU3MlOgqFvtdoH3iKxr/BYI31rvcuulD0MCZPWywVNPIFeFeIuma6\nFYfN0BKkdY+MPN0+5sV2s92MB0BcOmEFaI9yJQ/6lZDn03YOcRg2ga+7AoGBAMgy\npAM3oAi7uYCm2xKYpyR+ThnVj2+/AVpgNsRFJYbfRnjxZpcW9iyVnPnMg2GZE2t7\nC/5LhIcC2Jfv0GVPeLMYo2OVmIjxjacuCMw1bClviAv/3yONEWfhE7fkZ7W43XLt\nz0/VkEZhQu9AyJLd+mWYpfq+K0Nj4qGzBwJsuR1JAoGAEkGQamv82Sx44g2Zwu22\npGQUSVtrAaQIDSYpqMOM6jyOMZr22D3L3XvheyfWE8Det30O8vCwnB2cZXLvfQtm\ncbgnOvRaHFPj9aIcOFx+7Ix5lZ0t8ugS0Mx62O+5MBqQhtuJWPv4rtyjOLmXHyy9\n6sTDG+80fNt8omr3C40ZpHM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "suitextech@suitextechrecapt-1726149065694.iam.gserviceaccount.com",
+  "client_id": "115791129092877954370",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/suitextech%40suitextechrecapt-1726149065694.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
